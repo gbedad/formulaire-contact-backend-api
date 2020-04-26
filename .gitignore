@@ -1,0 +1,4 @@
+.env
+nodes_modules
+package-lock-json
+ngrok
